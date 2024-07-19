@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GudeNithin/TextUtils-React/static/css/main.b57a10cc.css",
+    "main.js": "/GudeNithin/TextUtils-React/static/js/main.340ac2f4.js",
+    "static/js/453.ed3810f9.chunk.js": "/GudeNithin/TextUtils-React/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/GudeNithin/TextUtils-React/index.html",
+    "main.b57a10cc.css.map": "/GudeNithin/TextUtils-React/static/css/main.b57a10cc.css.map",
+    "main.340ac2f4.js.map": "/GudeNithin/TextUtils-React/static/js/main.340ac2f4.js.map",
+    "453.ed3810f9.chunk.js.map": "/GudeNithin/TextUtils-React/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b57a10cc.css",
+    "static/js/main.340ac2f4.js"
+  ]
+}
